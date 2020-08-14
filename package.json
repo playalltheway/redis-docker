@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/playalltheway/trainer-portfolio-redis-db.git"
+    "url": "git+https://github.com/playalltheway/redis-docker.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/playalltheway/trainer-portfolio-redis-db/issues"
+    "url": "https://github.com/playalltheway/redis-docker/issues"
   },
-  "homepage": "https://github.com/playalltheway/trainer-portfolio-redis-db#readme"
+  "homepage": "https://github.com/playalltheway/redis-docker#readme"
 }
