@@ -1,5 +1,5 @@
 {
-  "name": "trainer-portfolio-redis-db",
+  "name": "redis-docker",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
